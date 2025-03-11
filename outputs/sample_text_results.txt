@@ -1,0 +1,24 @@
+Análise de Sentimento 
+
+{
+  "sentiment": "positive",
+  "confidenceScores": {
+    "positive": 0.9,
+    "neutral": 0.1,
+    "negative": 0.0
+  }
+}
+
+Extração de Entidades Nomeadas (NER)
+{
+  "entities": [
+    { "text": "João", "category": "Person" },
+    { "text": "parque", "category": "Location" }
+  ]
+}
+
+Detecção de Idioma 
+{
+  "language": "pt",
+  "confidenceScore": 0.98
+}
