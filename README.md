@@ -5,11 +5,11 @@ Este projeto explora a análise de texto utilizando ferramentas de IA, como o Mi
 ## Estrutura do Projeto
 
 text-analysis-portfolio/
-├── inputs/ # Documentos de entrada
-│ └── sample_text.txt # Exemplo de texto para análise
-├── outputs/ # Resultados da análise (opcional)
-│ └── analysis_results.json
-└── README.md # Documentação principal
+inputs/ # Documentos de entrada
+sample_text.txt # Exemplo de texto para análise
+outputs/ # Resultados da análise (opcional)
+analysis_results.json
+README.md # Documentação principal
 
 ## Processo de Análise
 
